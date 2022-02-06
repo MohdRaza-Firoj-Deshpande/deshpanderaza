@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohd.Raza</h1>
 <h3 align="center">∞ Learning & Growing</h3>
 
-- 📫 How to reach me **deshpanderaza305@gmail.com**
+- 📫 Reach me at  **deshpanderaza305@gmail.com**
 
 - ⚡ Fun fact **“Eat, Sleep, Code, Repeat”**
 
